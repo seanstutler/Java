@@ -41,8 +41,5 @@ public class Make_24_Main {
 		
 	}
 	
-	private static String getOperator(int index) {
-		String[] operators = {"+", "-", "*", "/"};
-		return operators[index];
-	}
+	
 }
